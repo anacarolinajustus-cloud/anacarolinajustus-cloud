@@ -1,7 +1,7 @@
 ## :chart_with_upwards_trend:Apresentação
 - Estudante de `Análise e desenvolvimento de sistemas`.
-- Buscando atuar no cargo`
-- Atualmente aprofudando meus conhecimentos em `
+- Buscando atuar na `Área de Tecnologia da Informação`.
+- Atualmente aprofudando meus conhecimentos em `HTML, CSS, C e lógica de programação`.
 
 ## Tecnologias e Ferramentas
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
