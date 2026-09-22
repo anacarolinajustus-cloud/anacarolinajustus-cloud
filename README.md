@@ -1,7 +1,16 @@
-## :chart_with_upwards_trend:Apresentação
-- Estudante de `Análise e desenvolvimento de sistemas`.
-- Buscando atuar na `Área de Tecnologia da Informação`.
-- Atualmente aprofudando meus conhecimentos em `HTML, CSS, C e lógica de programação`.
+
+![alt text](<Imagem do Codex 21 de set. de 2026, 20_58_05.png>)
+# :wave:Oi, eu sou a Ana Carolina!
+  
+ :woman_technologist: Sobre mim
+
+:mortar_board: Estudante de **Análise e Desenvolvimento de Sistemas**, e estou construindo minha jornada na área de tecnologia.
+
+:seedling: Gosto de aprender na prática, desenvolver projetos e transformar meus estudos em experiências que contribuem para o meu crescimento.
+
+:dart: Meu objetivo é evoluir cada vez mais na programação e conquistar minha primeira oportunidade na área de tecnologia.
+
+:computer: Construindo minha jornada na **Tecnologia da Informação**
 
 ## Tecnologias e Ferramentas
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
