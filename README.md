@@ -13,24 +13,90 @@
 :computer: Construindo minha jornada na **Tecnologia da Informação**
 
 ## Tecnologias e Ferramentas
+### Atualmente estou aprendendo.
+
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
+
 ![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge)
+
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
 
-## Meu Roadeap (próximos 6 meses)
-- [X] Crescer na minha carreira.
-- [x] Aprender linguagens de programação novas.
-- [x] Aprender o inglês fluente. 
+## Atualmente aprendendo
+HTML & CSS              ██████░░░   — Aperfeiçoando
 
-## Projetos em Destaque 
-| Projeto | Descrição | Tecnologia Principal |
-| --- | --- | --- |
-| [Calculadora](https://github.com/anacarolinajustus-cloud/Calculadora) | Minha primeira calculadora feita com liguagens programação | ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge) ![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge) |  
-|[Sintaxe Markdown](https://github.com/anacarolinajustus-cloud/exemplo2-projetoaleatorio) | Exemplos de sintaxe markdown | ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge) |
-| [Git Basico](https://github.com/anacarolinajustus-cloud/ala-git-basico) | Comandos básicos de git | ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge) |
+JavaScript              ███░░░░░░   — Aprendendo
 
-## Como falar comigo 
+Lógica de programação   █████░░░░   — Aprendendo
+
+Git & GitHub            ██████░░░  — Praticando
+
+C                       ███░░░░░░  — Aprendendo
+
+
+
+
+## 🚀 Minha jornada 
+### 2026 
+
+#### :mortar_board: Inicio da graduação em ADS.
+
+#### :computer: Fundamentos de programação  
+
+#### :globe_with_meridians: HTML & CSS
+
+#### :gear: JavaScript  
+
+#### :wrench: Git & GitHub
+
+#### :rocket: Desenvolvendo meus próprios projetos 
+
+#### `Próximo passo:` transformar conhecimento em projetos cada vez mais completos.
+
+## :file_folder: Projetos em destaques
+
+### Calculadora 
+Meu primeiro projeto de calculadora, criado para praticar desenvolvimento web e JavaScript.
+
+`Tecnologias:` HTML • CSS • JavaScript
+
+🔗 [Ver projeto](https://github.com/anacarolinajustus-cloud/Calculadora)
+
+### Sintaxe Markdown
+Repositório criado para praticar e documentar diferentes recursos da sintaxe Markdown.
+
+`Tecnologias:` Markdown 
+
+🔗 [Ver projeto] (https://github.com/anacarolinajustus-cloud/exemplo2-projetoaleatorio)
+
+### Git Básico
+Repositório criado durante meus estudos para praticar comandos e conceitos básicos do Git.
+
+`Tecnologias:`Git
+
+🔗 [Ver projeto](https://github.com/anacarolinajustus-cloud/ala-git-basico)
+
+## Meu Roadeap
+
+- Criar novos projetos em JavaScript
+- Melhorar minhas habilidades com Git e GitHub
+- Desenvolver meu portfólio pessoal
+- Criar projetos focados em lógica de programação
+- Aprender novas tecnologias 
+- Conquistar minha primeira oportunidade na área de tecnologia
+
+
+
+
+
+
+
+
+
+## Vamos nos conectar?
 - [Linkedln](https://www.linkedin.com/in/ana-santos-02630026a/)
 - `anacarolinajustus@gmail.com`
 
