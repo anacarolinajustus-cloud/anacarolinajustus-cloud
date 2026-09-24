@@ -39,7 +39,7 @@ C                       ███░░░░░░  — Aprendendo
 
 
 
-## 🚀 Minha jornada 
+##  Minha jornada 
 ### 2026 
 
 #### :mortar_board: Inicio da graduação em ADS.
@@ -56,7 +56,7 @@ C                       ███░░░░░░  — Aprendendo
 
 #### `Próximo passo:` transformar conhecimento em projetos cada vez mais completos.
 
-## :file_folder: Projetos em destaques
+##  Projetos em destaques
 
 ### Calculadora 
 Meu primeiro projeto de calculadora, criado para praticar desenvolvimento web e JavaScript.
